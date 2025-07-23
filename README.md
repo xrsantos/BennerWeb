@@ -30,10 +30,16 @@ cd loja-ui
 
 ## 3. Instalar dependências
 
+```bash
 npm install
 # ou
 pnpm install
 
+---
 
 ## 4. Rodar em modo desenvolvimento
+
+```bash
 npm run dev
+
+---
