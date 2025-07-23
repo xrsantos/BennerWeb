@@ -24,8 +24,8 @@ Principais libs:
 ## 2. Clonar o repositório
 
 ```
-git clone https://github.com/<sua-org>/loja-ui.git
-cd loja-ui
+git clone https://github.com/xrsantos/BennerWeb.git
+cd BennerWeb
 
 ```
 
