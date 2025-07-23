@@ -23,25 +23,25 @@ Principais libs:
 
 ## 2. Clonar o repositório
 
-```bash
+```
 git clone https://github.com/<sua-org>/loja-ui.git
 cd loja-ui
 
----
+```
 
 
 ## 3. Instalar dependências
 
-```bash
+```
 npm install
 # ou
 pnpm install
 
----
+```
 
 ## 4. Rodar em modo desenvolvimento
 
-```bash
+```
 npm run dev
 
----
+```
