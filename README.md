@@ -27,6 +27,8 @@ Principais libs:
 git clone https://github.com/<sua-org>/loja-ui.git
 cd loja-ui
 
+---
+
 
 ## 3. Instalar dependências
 
