@@ -45,3 +45,5 @@ pnpm install
 npm run dev
 
 ```
+
+Atenção necessita da api em execução 
